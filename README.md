@@ -1,5 +1,7 @@
 # ShakespeareanPokemon
 
+![Demo](https://media.giphy.com/media/exhoOJgzpkEn0VdXg6/giphy.gif)
+
 A lightweight app to search for Pokemon and load its image and Shakespearean description.
 
 # Usage
