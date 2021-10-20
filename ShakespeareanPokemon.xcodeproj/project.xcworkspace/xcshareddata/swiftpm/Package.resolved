@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwiftyShakespeareanPokemon",
+        "repositoryURL": "https://github.com/WunDaii/SwiftyShakespeareanPokemon.git",
+        "state": {
+          "branch": null,
+          "revision": "82bf4e1f95ace8e917c927d5c4285c4051d11de1",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
